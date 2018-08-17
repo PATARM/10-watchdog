@@ -1,0 +1,5 @@
+WatchDog	KEYWORD1
+
+refresh	KEYWORD2
+
+reset	KEYWORD2
